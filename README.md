@@ -1,1 +1,1 @@
-# .github
+# this private repo is for the OpenGraph project
